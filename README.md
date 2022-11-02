@@ -7,7 +7,7 @@ al calendario Juliano o Gregoriano
 
 
 ## Tecnologias
----
+
 - [Java 8](https://www.java.com/es/download/ie_manual.jsp) - Java Virtual Machine
 - [JDK 17 ](https://www.oracle.com/java/technologies/downloads/) - Java SE Development Kit 17
 
